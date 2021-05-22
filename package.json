@@ -1,0 +1,28 @@
+{
+  "name": "babel-plugin-component-source-path",
+  "version": "0.0.1",
+  "description": "在 DOM 节点上透出组件源码路径",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hxtao",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/parser": "^7.13.13",
+    "@babel/types": "^7.13.13"
+  },
+  "keywords": [
+    "react",
+    "babel",
+    "babel-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/better-than-better/babel-plugin-component-source-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/better-than-better/babel-plugin-component-source-path/issues"
+  },
+  "homepage": "https://github.com/better-than-better/babel-plugin-component-source-path#readme"
+}
